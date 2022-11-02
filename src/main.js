@@ -21,7 +21,7 @@ function createCard(date, day, games) {
 }
 
 document.querySelector('#app').innerHTML = `
- </header>
+ <header>
     <img src="./assets/logo.svg" alt="logo nlw copa">
  </header>
     <main id="cards">
